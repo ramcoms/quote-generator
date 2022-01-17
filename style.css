@@ -110,6 +110,10 @@ button:active {
     margin-right: 3px;
 }
 
+.fa-home {
+    color: white;
+}
+
   @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
